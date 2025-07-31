@@ -1,0 +1,4 @@
+variabele1 = 10
+variabele2 = 0.50
+totaal= variabele1 * variabele2
+print(totaal)
